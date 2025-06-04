@@ -38,4 +38,4 @@ pytest test_integration.py
 
 Розроблено з любов'ю до чистого коду, бінарного пошуку та української мови.
 
-> **Created by a little wube codding and understanding processing.**
+> **Created by a little wibe codding and understanding processing.**
